@@ -22,5 +22,4 @@ public class Account {
     private String accountHolderName;
     private Double balance;
 
-
 }
